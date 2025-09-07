@@ -1,0 +1,12 @@
+{
+    "maxPlayers": {
+        "type": "int",
+        "description": "最大玩家数量",
+        "default": 4
+    },
+    "timeLimit":{
+        "type": "int",
+        "description": "游戏时间限制（秒）",
+        "default": 30
+    }
+}
